@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Kaique Luz and I'm a DevOps Jr.</h2>
+<br clear="both">
+
+<h3 align="left">Hi 👋! My name is Kaique Luz and I'm a DevOps Jr.</h3>
 
 ###
 
@@ -21,6 +23,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="https://www.linkedin.com/in/kaiqueluz23/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -28,9 +32,12 @@
   <a href="https://www.hackerrank.com/kaiqueluz23?hr_r=1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
+  <a href="https://discord.com/channels/990099799380492379/990099800101896203" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
   <a href="https://www.instagram.com/kaiqueluz23/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
-
+###
