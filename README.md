@@ -1,6 +1,9 @@
 <br clear="both">
+
 <h3 align="left">Hi 👋! My name is Kaique Luz and I'm a DevOps Jr.</h3>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="go logo"  />
